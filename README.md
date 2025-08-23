@@ -1,5 +1,5 @@
 # 30 Nites of Learning and Mastering Langgraph
-## 30 Days of continous langgraph
+## 30 Days of continuous langgraph
 ### This challenge of mine was create in a middle of my full time job to deepening my understanding in langgraph
 
 | # Day        |  Projects                        | Learnings |
