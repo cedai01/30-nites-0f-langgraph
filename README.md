@@ -1,5 +1,6 @@
 # 30 Nites of Learning and Mastering Langgraph
-## This challenge of mine was create in a middle of my full time job to deepening my understanding in langgraph
+## 30 Days langgraph learning 
+### This challenge of mine was create in a middle of my full time job to deepening my understanding in langgraph
 
 | # Day        |  Projects                        | Learnings |
 |--------------|----------------------------------|-----------|
