@@ -4,5 +4,6 @@
 | # Day        |  Projects                        | Learnings |
 |--------------|----------------------------------|-----------|
 | Day 1 | Simple graph        | I learn how to create a simple graph with static input |
-| Day 2 | Create a simple calculator graph | I learn how to create a simple conditional graph |
-| Day 3 | Create a simple rock, paper, and scissors game using the graph | I learn how to make conditional and solve logic graphs |
+| Day 2 | Created a simple calculator graph | I learn how to create a simple conditional graph |
+| Day 3 | Created a simple rock, paper, and scissors game using the graph | I learn how to make conditional and solve logic graphs |
+| Day 4 | Created a looping dice game graph | I learn how to make a loop nodes ang graphs |
